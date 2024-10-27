@@ -1,0 +1,277 @@
+/*Websites colors*/
+body{
+    background-color: #f5e0e0;
+}
+
+/*Specics on font*/
+h1{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+.maintitle{
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+.homepage1{
+    text-align: center;
+    font-family: "Inria Serif" , serif;
+}
+
+.info1{
+    text-align: center;
+    font-family: "Cardo" ,serif;
+}
+
+h3{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+.homepage2{
+    text-align: center;
+    font-family: "Inria Serif" , serif;
+}
+
+.info2{
+    text-align: center;
+    font-family: "Cardo" ,serif;
+}
+
+h4{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+.homepage3{
+    text-align: center;
+    font-family: "Inria Serif" , serif;
+}
+
+.info3{
+    text-align: center;
+    font-family: "Cardo" ,serif;
+}
+
+h5{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+h6{
+    font-size: 30px;
+    font-family: "Inria Serif" , serif;
+}
+
+p{
+    font-size: 24px;
+    font-family: "Cardo" ,serif;
+    letter-spacing: normal;
+    line-height: 1.5;
+    text-indent: 20px;
+    word-spacing: 5px;
+}
+
+p1{
+    font-size: 16px;
+    font-family: "Cardo" ,serif;
+}
+
+.title{
+    font-size: 64px;
+    font-family: "Inria Serif" , serif;
+    font-weight: lighter;
+    position: relative;
+    left: 200px;
+    top: -250px;
+}
+
+p3{
+    font-size: 16px;
+    font-family: "Cardo" ,serif;
+    text-align: center;
+}
+
+.maintext{
+    text-align: center;
+}
+
+.drypic{
+position: relative;
+top: 25px; 
+left:150px;
+font-size: 24px;
+}
+
+.oilypic{
+    position: relative;
+    top: -150px; 
+    left:450px;
+    font-size: 24px;
+}
+
+.combinationpic{
+    position: relative;
+    top: -550px; 
+    left:715px;
+    font-size: 24px;
+}
+
+.sensitivepic{
+    position: relative;
+    top: -715px; 
+    left: 1050px;
+    font-size: 24px;
+}
+
+/*Image layouts*/
+
+.luminous-image{
+    width: 400px;
+    height: 266px;
+    position:relative;
+    top: -80px;
+    left: -20px ;
+}
+
+.luminous2-image{
+    width: 250px;
+    height: 200px;
+}
+
+.dry{
+    width: 240px;
+    height: 250px;
+    border-radius: 25px;
+    position: relative;
+    left: 100px;
+    top: 25px;
+    
+}
+
+.oily{
+    width: 240px;
+    height: 250px;
+    border-radius: 25px;
+    position: relative;
+    left: 400px;
+    top: -150px;
+}
+
+.combination{
+    width: 240px;
+    height: 250px;
+    border-radius: 25px;
+    position:relative;
+    left: 700px;
+    top: -550px;
+}
+
+.sensitive{
+    width: 240px;
+    height: 250px;
+    border-radius: 25px;
+    position: relative; 
+    left: 1000px;
+    top: -715px;
+}
+
+.Author{
+    width: 240px;
+    height: 250px;
+    margin-left: auto;
+}
+
+.skinpicture{
+    width:300px;
+    height:300px;
+    border-radius: 50px;
+}
+/*navigation format*/
+.nav1{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    position: relative;
+    border-style: none;
+    top: -150px;
+    left: 300px;
+}
+
+.nav2{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    border-style: none;
+    position: relative;
+    top: -150px;
+    left: 350px;
+}
+
+.nav3{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    border-style: none;
+    position: relative;
+    top: -150px;
+    left: 400px;
+}
+
+.nav4{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    border-style: none;
+    position: relative;
+    top: -150px;
+    left: 450px;
+}
+
+.nav5{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    border-style: none;
+    position: relative;
+    top: -150px;
+    left: 500px;
+}
+
+.nav6{
+    background-color: #b6909d;
+    border: 10px solid #b6909d;
+    border-radius: 25px;
+    border-style: none;
+    position: relative;
+    top: -150px;
+    left: 550px;
+}
+
+.luminous2{
+    background-color: #b6909d;
+    border-radius: 100px;
+    border-style: none;
+    text-align: center;
+    width: 800px;
+    display: block;    
+    margin: 0 auto;
+}
+
+.main{
+    border-radius: 100px;
+    width: 1226px;
+    height: 393px;
+    display: block;    
+    margin: 0 auto;
+    margin-top: -5%;
+}
+
+fieldset{
+    background-color: #b6909d;
+}
